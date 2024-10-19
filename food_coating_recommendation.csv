@@ -1,0 +1,48 @@
+Food,Type,Moisture Content (%),pH,Texture,Perishability (1-10),Coating Type,Barrier Property,Compatibility (1-10),Shelf Life Without Coating (days),Shelf Life With Coating (days),Storage Temp (°C),Humidity (%)
+Apple,Fruit,84,3.3,Firm,7,Carnauba wax,Moisture,9,14,30,4,90
+Banana,Fruit,74,4.5,Soft,8,Chitosan,Antimicrobial,7,5,12,13,85
+Strawberry,Fruit,91,3.5,Soft,9,Alginate,Antioxidant,8,3,7,2,90
+Cucumber,Vegetable,96,5.5,Firm,6,Beeswax,Moisture,8,7,14,10,95
+Tomato,Fruit,94,4.3,Firm,7,Zein,Oxygen,7,7,14,10,85
+Bread,Grain,36,5.8,Soft,6,Methylcellulose,Moisture,8,5,10,22,60
+Cheese,Dairy,37,5.1,Semi-soft,5,Whey protein,Oxygen,9,14,30,4,80
+Fish fillet,Seafood,76,6.5,Soft,9,Chitosan,Antimicrobial,8,2,5,0,95
+Beef steak,Meat,68,5.7,Firm,7,Alginate,Oxygen,7,3,7,2,90
+Carrot,Vegetable,88,6,Firm,5,Carnauba wax,Moisture,8,14,28,4,95
+Potato,Vegetable,79,5.7,Firm,4,Beeswax,Moisture,7,21,42,10,90
+Lettuce,Vegetable,95,6,Crisp,8,Chitosan,Antimicrobial,7,5,10,4,95
+Mango,Fruit,83,4,Firm,6,Carnauba wax,Moisture,9,7,14,13,85
+Chicken breast,Meat,75,6.2,Firm,8,Whey protein,Oxygen,8,2,5,2,90
+Avocado,Fruit,73,6.6,Soft,7,Methylcellulose,Oxygen,7,5,10,4,85
+Broccoli,Vegetable,89,6.3,Firm,6,Alginate,Moisture,8,5,10,4,95
+Salmon,Seafood,64,6.4,Soft,8,Chitosan,Antimicrobial,9,2,5,0,90
+Mushroom,Fungus,92,6.2,Soft,9,Alginate,Moisture,7,3,7,4,90
+Egg,Poultry,75,7.7,Liquid,6,Mineral oil,Gas,9,28,56,4,80
+Bell pepper,Vegetable,92,5.1,Firm,5,Carnauba wax,Moisture,8,7,14,10,90
+Pear,Fruit,84,3.8,Firm,6,Shellac,Moisture,8,7,14,4,90
+Grapes,Fruit,81,3.5,Soft,7,Chitosan,Antimicrobial,7,7,14,2,85
+Peach,Fruit,89,3.6,Soft,8,Carnauba wax,Moisture,9,5,10,4,90
+Zucchini,Vegetable,95,6.5,Firm,6,Beeswax,Moisture,7,5,10,10,95
+Blueberry,Fruit,84,3.3,Soft,9,Pectin,Antioxidant,8,5,12,2,85
+Pineapple,Fruit,87,3.5,Firm,6,Gellan gum,Moisture,7,7,14,10,80
+Cauliflower,Vegetable,92,6.5,Firm,5,Carrageenan,Antimicrobial,8,7,14,4,90
+Tofu,Protein,78,7.2,Soft,7,Soy protein,Moisture,9,3,7,4,85
+Kiwi,Fruit,83,3.4,Soft,8,Pullulan,Oxygen,7,5,10,4,90
+Eggplant,Vegetable,92,4.5,Firm,6,Xanthan gum,Moisture,8,5,10,10,85
+Shrimp,Seafood,76,7,Firm,9,Chitosan-lysozyme,Antimicrobial,9,2,5,0,95
+Turkey breast,Meat,74,6.1,Firm,7,Cellulose,Oxygen,8,2,5,2,90
+Papaya,Fruit,88,5.5,Soft,8,Guar gum,Moisture,7,5,10,13,85
+Sweet potato,Vegetable,77,5.8,Firm,4,Beeswax-carnauba,Moisture,9,14,28,10,90
+Spinach,Vegetable,91,5.5,Soft,8,Sodium alginate,Moisture,8,5,10,4,95
+Plum,Fruit,87,3.3,Firm,7,Hydroxypropyl methylcellulose,Moisture,7,7,14,4,85
+Crab meat,Seafood,80,7,Soft,9,Lysozyme,Antimicrobial,8,1,3,0,95
+Almond,Nut,5,6.5,Hard,2,Zein-wax,Oxygen,9,180,360,22,60
+Pork chop,Meat,72,5.9,Firm,7,Collagen,Oxygen,8,3,7,2,90
+Brussels sprouts,Vegetable,86,6.3,Firm,5,Chitosan-essential oil,Antimicrobial,7,7,14,4,90
+Raspberry,Fruit,86,3.2,Soft,9,Nanocellulose,Moisture,8,2,5,2,85
+Goat cheese,Dairy,42,6.1,Soft,6,Natamycin,Antifungal,9,14,28,4,80
+Okra,Vegetable,90,6,Firm,7,Locust bean gum,Moisture,7,4,8,10,90
+Nectarine,Fruit,87,3.9,Firm,7,Shellac-carnauba,Moisture,8,5,10,4,85
+Scallop,Seafood,80,6.8,Soft,9,Chitosan-alginate,Antimicrobial,8,1,3,0,95
+Artichoke,Vegetable,85,5.9,Firm,5,Pectin-calcium,Moisture,7,5,10,4,90
+Quail egg,Poultry,74,7.8,Liquid,6,Silica-based,Gas,8,21,42,4,80
